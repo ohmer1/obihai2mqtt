@@ -1,0 +1,15 @@
+{
+    "name": "ohmer1/obihai2mqtt",
+    "description": "Forward obihai lines states to mqtt.",
+    "license": "Apache Licence 2.0",
+    "authors": [
+        {
+            "name": "ohmer1",
+            "email": "github@fdnet.biz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "bluerhinos/phpmqtt": "dev-master"
+    }
+}
